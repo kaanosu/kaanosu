@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kaanosu.
-- 🌱 I’m currently learning c#.
-- 📫 Email: kaanosu.git@gmail.com
+- Hi, welcome to my page.
+- I’m currently learning c#.
+- Email: kaanosu.git@gmail.com 
+- Discord: kaan_osu#0990
