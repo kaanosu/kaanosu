@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kaanosu.
+- 🌱 I’m currently learning c#.
+- 📫 Email: kaanosu.git@gmail.com
