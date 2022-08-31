@@ -1,4 +1,4 @@
 - Hi, welcome to my page.
 - I’m currently learning c#.
 - Email: kaanosu.git@gmail.com 
-- Discord: mrekk#0001
+- Discord: Gustavo Fring#6474
