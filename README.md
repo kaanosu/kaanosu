@@ -1,4 +1,3 @@
-- Hi, welcome to my page.
+- Hello, welcome to my page.
 - I’m currently learning c#.
-- Email: kaanosu.git@gmail.com 
-- Discord: Gustavo Fring#6474
+- Discord: frfrong#4553
