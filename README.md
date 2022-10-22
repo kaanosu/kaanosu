@@ -1,3 +1,2 @@
 - Hello, welcome to my page.
-- I’m currently learning c#.
-- Discord: frfrong#4553
+- Discord: ttebsinim#4553
