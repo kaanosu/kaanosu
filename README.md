@@ -1,2 +1,2 @@
 - Hello, welcome to my page.
-- Discord: ttebsinim#4553
+- Discord: https://discord.gg/dG9PVw9fTj
