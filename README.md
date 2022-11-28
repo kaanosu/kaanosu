@@ -1,2 +1,1 @@
 - Hello, welcome to my page.
-- Discord: https://discord.gg/dG9PVw9fTj
