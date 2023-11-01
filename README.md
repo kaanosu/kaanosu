@@ -1,0 +1,3 @@
+- Welcome to my page!
+- Currently learning c++ game hacking.
+- Discord: kaan.gn
