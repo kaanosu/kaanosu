@@ -1,2 +1,1 @@
-- Currently learning UE c++ game hacking.
 - Discord: kaan.gn
