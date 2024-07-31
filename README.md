@@ -1,1 +1,2 @@
-- Discord: kaan.gn
+- life being too rough atm, please create issues instead of adding my discord for problems related to my git repo
+- discord: iamennui
